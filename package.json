@@ -30,7 +30,7 @@
   ],
   "main": "./lib/passport-yammer",
   "dependencies": {
-    "pkginfo": "0.2.x",
+    "pkginfo": "0.4.1",
     "passport-oauth": "mykabam/passport-oauth"
   },
   "devDependencies": {
